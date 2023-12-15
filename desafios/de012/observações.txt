@@ -1,0 +1,5 @@
+CSS3 {
+    text-transform: uppercase; /*Transforma o texto todo em maiúsculo.*/
+    font-variant: small-caps; /*Pelo que entendi, ele deixa as letras iniciais em maiúsculo*/
+}
+
